@@ -1,0 +1,256 @@
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1657538068305	geckodriver	INFO	Listening on 127.0.0.1:54314
+1657539038351	geckodriver	INFO	Listening on 127.0.0.1:54839
+1657539302533	geckodriver	INFO	Listening on 127.0.0.1:55104
+1657539305595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilepaO4N1"
+1657539305962	Marionette	INFO	Marionette enabled
+1657539305968	Marionette	INFO	Listening on port 55115
+WebDriver BiDi listening on ws://localhost:55105
+Read port: 55115
+1657539306184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilepaO4N1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55105/devtools/browser/496d37c5-51e8-4fbc-9e2b-78685ae1150b
+1657539324106	geckodriver	INFO	Listening on 127.0.0.1:55169
+1657539327171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilewsUn6H"
+1657539327620	Marionette	INFO	Marionette enabled
+1657539327630	Marionette	INFO	Listening on port 55182
+WebDriver BiDi listening on ws://localhost:55170
+Read port: 55182
+1657539327927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilewsUn6H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55170/devtools/browser/b2a894a2-3150-4545-a756-fd86a9b4eeba
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657539365316	geckodriver	INFO	Listening on 127.0.0.1:55285
+1657539368379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileWjsIjX"
+1657539368734	Marionette	INFO	Marionette enabled
+1657539368739	Marionette	INFO	Listening on port 55296
+WebDriver BiDi listening on ws://localhost:55286
+Read port: 55296
+1657539368949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileWjsIjX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55286/devtools/browser/b49e93a3-03db-47ed-a07e-c9d51a57fa9b
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=UAH_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=UAH_RUB, line 1: ReferenceError: set_day_of_month is not defined
+1657539390868	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657539415651	geckodriver	INFO	Listening on 127.0.0.1:55487
+1657539418696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile4FBJff"
+1657539419362	Marionette	INFO	Marionette enabled
+1657539419373	Marionette	INFO	Listening on port 55498
+Read port: 55498
+WebDriver BiDi listening on ws://localhost:55488
+1657539419507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile4FBJff\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55488/devtools/browser/63849604-3c9c-477c-a27a-1cdbf96a0001
+1657539509245	geckodriver	INFO	Listening on 127.0.0.1:55591
+1657539512292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilepSlW2e"
+1657539512645	Marionette	INFO	Marionette enabled
+1657539512650	Marionette	INFO	Listening on port 55602
+WebDriver BiDi listening on ws://localhost:55592
+Read port: 55602
+1657539512860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilepSlW2e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55592/devtools/browser/5fa1e0a3-df4b-42f8-853e-45032b609302
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657539588243	geckodriver	INFO	Listening on 127.0.0.1:55786
+1657539591309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileRHnNfM"
+1657539591661	Marionette	INFO	Marionette enabled
+1657539591666	Marionette	INFO	Listening on port 55798
+WebDriver BiDi listening on ws://localhost:55787
+Read port: 55798
+1657539591885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileRHnNfM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55787/devtools/browser/447b755f-e63f-43de-9037-2e484e79ca3a
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1657539608546	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657539680371	geckodriver	INFO	Listening on 127.0.0.1:55999
+1657539693348	geckodriver	INFO	Listening on 127.0.0.1:56018
+1657539696406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilee5khW4"
+1657539696762	Marionette	INFO	Marionette enabled
+1657539696768	Marionette	INFO	Listening on port 56029
+WebDriver BiDi listening on ws://localhost:56019
+Read port: 56029
+1657539696972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilee5khW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56019/devtools/browser/2e8b2dc2-fbaa-427c-a2fa-19a59b30530e
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_CAD, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_CAD, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_CAD, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_CAD, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_CAD, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_CAD, line 1: ReferenceError: set_day_of_month is not defined
+1657539877437	geckodriver	INFO	Listening on 127.0.0.1:56274
+1657539880514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilebgHSuD"
+1657539880908	Marionette	INFO	Marionette enabled
+1657539880913	Marionette	INFO	Listening on port 56285
+WebDriver BiDi listening on ws://localhost:56275
+Read port: 56285
+1657539881031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilebgHSuD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56275/devtools/browser/256284b7-28d8-4987-a068-b7f19d9ddaa8
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+1657540029506	geckodriver	INFO	Listening on 127.0.0.1:56524
+1657540032580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileSWWbJx"
+1657540032925	Marionette	INFO	Marionette enabled
+1657540032930	Marionette	INFO	Listening on port 56536
+WebDriver BiDi listening on ws://localhost:56525
+Read port: 56536
+1657540033214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileSWWbJx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56525/devtools/browser/d36e2975-dbb6-42fb-8803-2189487d144c
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657540048856	geckodriver	INFO	Listening on 127.0.0.1:56631
+1657540051920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileknzI6u"
+1657540052265	Marionette	INFO	Marionette enabled
+1657540052271	Marionette	INFO	Listening on port 56642
+WebDriver BiDi listening on ws://localhost:56632
+Read port: 56642
+1657540052483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileknzI6u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56632/devtools/browser/ad714386-88b6-495c-bd11-759ed65d0fef
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+1657540164928	geckodriver	INFO	Listening on 127.0.0.1:56793
+1657540167988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile1DMngL"
+1657540168345	Marionette	INFO	Marionette enabled
+1657540168350	Marionette	INFO	Listening on port 56804
+WebDriver BiDi listening on ws://localhost:56794
+Read port: 56804
+1657540168544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile1DMngL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56794/devtools/browser/00f938b6-1820-4395-b920-a0cdb7a1f1dc
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657540354142	geckodriver	INFO	Listening on 127.0.0.1:57052
+1657540357210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile7hq6iI"
+1657540357629	Marionette	INFO	Marionette enabled
+1657540357634	Marionette	INFO	Listening on port 57063
+WebDriver BiDi listening on ws://localhost:57053
+Read port: 57063
+1657540357740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile7hq6iI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57053/devtools/browser/572765e1-70b1-420b-9a6d-817fd3792cdc
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657540362857	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657540420889	geckodriver	INFO	Listening on 127.0.0.1:57255
+1657540423974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileF8efjr"
+1657540424313	Marionette	INFO	Marionette enabled
+1657540424318	Marionette	INFO	Listening on port 57267
+WebDriver BiDi listening on ws://localhost:57256
+Read port: 57267
+1657540424596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileF8efjr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57256/devtools/browser/c4be46bf-576c-48e5-bec9-a93b0b0787aa
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657540549671	geckodriver	INFO	Listening on 127.0.0.1:57480
+1657540566629	geckodriver	INFO	Listening on 127.0.0.1:57502
+1657540569694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileqXwMXB"
+1657540570047	Marionette	INFO	Marionette enabled
+1657540570052	Marionette	INFO	Listening on port 57515
+WebDriver BiDi listening on ws://localhost:57503
+Read port: 57515
+1657540570250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileqXwMXB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57503/devtools/browser/7449391a-03aa-474c-a605-9d3abce92571
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657540673855	geckodriver	INFO	Listening on 127.0.0.1:57673
+1657540676913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileLLHs61"
+1657540677259	Marionette	INFO	Marionette enabled
+1657540677264	Marionette	INFO	Listening on port 57685
+WebDriver BiDi listening on ws://localhost:57674
+Read port: 57685
+1657540677468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileLLHs61\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57674/devtools/browser/24f4926f-bcf9-4684-8822-801d9cf3cffa
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657540727403	geckodriver	INFO	Listening on 127.0.0.1:57810
+1657540730467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilezk4pGA"
+1657540730811	Marionette	INFO	Marionette enabled
+1657540730816	Marionette	INFO	Listening on port 57822
+WebDriver BiDi listening on ws://localhost:57811
+Read port: 57822
+1657540731019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilezk4pGA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57811/devtools/browser/f9c1a682-fe43-4775-9689-68b8c5e369d4
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657540850844	geckodriver	INFO	Listening on 127.0.0.1:58006
+1657540853920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileVO7DR1"
+1657540854267	Marionette	INFO	Marionette enabled
+1657540854272	Marionette	INFO	Listening on port 58017
+WebDriver BiDi listening on ws://localhost:58007
+Read port: 58017
+1657540854475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileVO7DR1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58007/devtools/browser/2d6901d8-77d4-4a0c-a829-5f72ca8c452b
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657540862183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=EUR_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657540965881	geckodriver	INFO	Listening on 127.0.0.1:58262
+1657540968941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile5U6yWw"
+1657540969281	Marionette	INFO	Marionette enabled
+1657540969286	Marionette	INFO	Listening on port 58275
+WebDriver BiDi listening on ws://localhost:58263
+Read port: 58275
+1657540969568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile5U6yWw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58263/devtools/browser/f789aa69-b388-439d-b0bc-acb7e11ea955
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657540989020	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=EUR_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+1657541070365	geckodriver	INFO	Listening on 127.0.0.1:58506
+1657541073435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile0woxQY"
+1657541073831	Marionette	INFO	Marionette enabled
+1657541073836	Marionette	INFO	Listening on port 58517
+WebDriver BiDi listening on ws://localhost:58507
+Read port: 58517
+1657541073949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile0woxQY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58507/devtools/browser/caa79387-01b7-427d-bfb6-95a029541f0b
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=USD_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=EUR_RUB, line 1: ReferenceError: set_day_of_month is not defined
+1657541100204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=EUR_RUB, line 1: ReferenceError: set_day_of_month is not defined
+JavaScript error: https://www.moex.com/ru/derivatives/currency-rate.aspx?currency=EUR_RUB, line 1: ReferenceError: set_day_of_month is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.moex.com"
